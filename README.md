@@ -1,2 +1,2 @@
-# java06
-java chapter06
+# java chapter.06
+chapter06 연습문제
